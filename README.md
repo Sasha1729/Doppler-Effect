@@ -26,14 +26,12 @@ $\frac{\nu_{\text{max}}}{\nu_{0}} - \frac{\nu_{\text{min}}}{\nu_{0}} = \left(1 +
 
 Here, $v = \frac{2\pi r}{T}$, where $r$ is the radius and $T$ is the time period. The above relation could be used to find the speed of sound.
 
-\section*{Apparatus}
-\begin{enumerate} 
-     \item A custom Doppler Effect set-up with a rotating arm and speed control,
-     \item Two smartphones – one to play a particular frequency of sound and the other to record the emitted sound,
-     \item A Bluetooth speaker attached to this arm that can be paired with a phone,
-     \item A 12V, 9A battery to drive the motor,
-     \item A retort stand to clasp the phone.
-\end{enumerate}
+Apparatus
+1. A custom Doppler Effect set-up with a rotating arm and speed control,
+2. Two smartphones – one to play a particular frequency of sound and the other to record the emitted sound,
+3. A Bluetooth speaker attached to this arm that can be paired with a phone,
+4. A 12V, 9A battery to drive the motor,
+5. A retort stand to clasp the phone.
 
 ## Experimental Set-up 
 To ensure proper execution of the experiment, a stool should be placed on a level surface, onto which the custom Doppler Effect apparatus can be mounted. The apparatus comprises a rotating arm, a Bluetooth speaker attached to it, and a speed control mechanism. Next, one of the smartphones should be connected to the Bluetooth speaker on the apparatus. Simultaneously, a retort stand must be set up, and another smartphone should be secured to it, with the purpose of recording the sounds produced during the experiment. his methodology ensures the consistency and reproducibility of results, allowing for the accurate investigation of the Doppler Effect phenomenon.
